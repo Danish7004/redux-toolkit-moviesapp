@@ -1,0 +1,20 @@
+header{
+    min-height: 70px;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    /* background: linear-gradient(45deg, black, transparent) */
+}
+.logo h1 a{
+    text-decoration: none;
+    padding: 0px 23px;
+    opacity: 1;
+    color: black;
+}
+.logo img{
+    opacity: 1;
+    border-radius: 11px;
+}
